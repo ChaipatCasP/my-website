@@ -1,6 +1,5 @@
 import React from 'react';
 import './AboutUs.css';
-import Train from '../assets/images/Train.png' 
 
 
 function AboutUs() {
